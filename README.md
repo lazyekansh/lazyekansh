@@ -25,34 +25,31 @@
 
 <br />
 
-### ⚡ About Me
+### About Me
 
 > *"I don't just write code; I architect digital ecosystems. From cracking complex JEE Physics problems to building multiplayer game engines, I thrive on logic and creativity."*
 
-- 🔭 **Current Focus:** Cracking **JEE Mains** & Building **OSINT Tools**.
-- 📍 **Location:** Noida, Uttar Pradesh.
-- ♟️ **Grandmaster in Training:**
-  - **Rapid:** `1613` ⚡
-  - **Blitz:** `1358` 🔥
-  - **Daily:** `1452` ☀️
-- 🛠️ **Tech Stack:** React, Next.js, Node.js, Python, Tailwind.
-- 🎨 **Hobbies:** 3D Modeling (Award Winner), Reading Manga, Tennis.
+<img src="https://img.shields.io/badge/Focus-JEE_Mains_&_OSINT-blue?style=flat-square&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Location-Noida,_India-red?style=flat-square&logo=googlemaps&logoColor=white" />
+
+**Chess Profile (Lichess):**
+<br />
+<img src="https://img.shields.io/badge/Rapid-1613-FFD700?style=flat-square&logo=lichess&logoColor=black" /> <img src="https://img.shields.io/badge/Blitz-1358-FF8C00?style=flat-square&logo=lichess&logoColor=black" /> <img src="https://img.shields.io/badge/Daily-1452-00BFFF?style=flat-square&logo=lichess&logoColor=black" />
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Live Link |
 | :--- | :--- | :---: |
-| **♟️ Lazy Chess** | Multiplayer chess engine with **Stockfish AI**, Neon Glass UI, and P2P Sockets. | [**Play**](https://chess-lazyekansh.vercel.app) |
-| **📓 Ehenias** | *(Nebula)* An **Academic OS** for JEE/NEET aspirants with syllabus tracking & analytics. | [**View**](https://ehenias.vercel.app) |
-| **📸 Lazygram** | Pixel-perfect **Instagram Clone**. Replicates core algorithms, stories & feed. | [**Visit**](https://lazyekansh.vercel.app) |
-| **🕵️ OSINT Tool** | Comprehensive **Information Gathering** tool for digital reconnaissance. | [**Use**](https://osint-lazyekansh.vercel.app) |
-| **☁️ SkyCast** | Real-time weather forecasting with **dynamic background themes**. | [**Check**](https://skycast-le.vercel.app) |
+| **Lazy Chess** | Multiplayer chess engine with **Stockfish AI**, Neon Glass UI, and P2P Sockets. | [**Play**](https://chess-lazyekansh.vercel.app) |
+| **Ehenias** | *(Nebula)* An **Academic OS** for JEE/NEET aspirants with syllabus tracking & analytics. | [**View**](https://ehenias.vercel.app) |
+| **Lazygram** | Pixel-perfect **Instagram Clone**. Replicates core algorithms, stories & feed. | [**Visit**](https://lazyekansh.vercel.app) |
+| **OSINT Tool** | Comprehensive **Information Gathering** tool for digital reconnaissance. | [**Use**](https://osint-lazyekansh.vercel.app) |
+| **SkyCast** | Real-time weather forecasting with **dynamic background themes**. | [**Check**](https://skycast-le.vercel.app) |
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,js,html,css,tailwind,mongodb,firebase,git,github,vscode,figma&perline=7&theme=dark" />
@@ -60,7 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <br/>
