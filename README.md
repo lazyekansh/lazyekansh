@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <a href="https://lazyekansh.vercel.app">
+  <a href="https://lazyekansh.xyz">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
   <a href="https://wa.me/639515655241">
