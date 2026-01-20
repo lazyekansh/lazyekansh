@@ -57,7 +57,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="#">
+        <a href="https://chess-lazyekansh.vercel.app">
           <img src="https://img.shields.io/badge/LAZY_CHESS-Play_Now-black?style=for-the-badge&logo=lichess&logoColor=white" />
         </a>
       </td>
@@ -71,7 +71,7 @@
     </tr>
     <tr>
       <td>
-        <a href="#">
+        <a href="https://ehenias.vercel.app">
           <img src="https://img.shields.io/badge/EHENIAS_(NEBULA)-Study_Suite-blueviolet?style=for-the-badge&logo=notion&logoColor=white" />
         </a>
       </td>
@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td>
-        <a href="#">
+        <a href="https://lazygram.vercel.app">
           <img src="https://img.shields.io/badge/LAZYGRAM-Social_Clone-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
       </td>
