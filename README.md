@@ -1,75 +1,90 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ekansh;Full+Stack+Developer;JEE+Aspirant+%40+Noida;Building+Digital+Ecosystems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=SYSTEM_ONLINE&fontSize=60&fontAlignY=50&fontColor=2DD4BF&animation=fadeIn&stroke=2DD4BF&strokeWidth=2" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=100&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  
-  <a href="https://lazyekansh.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-  </a>
-  <a href="https://wa.me/639515655241">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" />
-  </a>
-  <a href="https://t.me/lazyekansh">
-    <img src="https://img.shields.io/badge/Telegram-@lazyekansh-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
-  </a>
   <a href="https://github.com/lazyekansh">
-    <img src="https://img.shields.io/badge/GitHub-@lazyekansh-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=INITIATING_SEQUENCE...;LOADING_MODULES:_REACT_NEXT_PYTHON;TARGET:_JEE_ADVANCED_2026;STATUS:_BUILDING_DIGITAL_ECOSYSTEMS" alt="Typing SVG" />
   </a>
-
 </div>
 
 <br />
 
-### About Me
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,python,cpp,firebase,nodejs,express,mongodb,linux,git,docker,kubernetes&theme=dark" />
+</div>
 
-> *"I don't just write code; I architect digital ecosystems. From cracking complex JEE Physics problems to building multiplayer game engines, I thrive on logic and creativity."*
-
-<img src="https://img.shields.io/badge/Focus-JEE_Mains_&_OSINT-blue?style=flat-square&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Location-Noida,_India-red?style=flat-square&logo=googlemaps&logoColor=white" />
-
-**Chess Profile (Lichess):**
 <br />
-<img src="https://img.shields.io/badge/Rapid-1613-FFD700?style=flat-square&logo=lichess&logoColor=black" /> <img src="https://img.shields.io/badge/Blitz-1358-FF8C00?style=flat-square&logo=lichess&logoColor=black" /> <img src="https://img.shields.io/badge/Daily-1452-00BFFF?style=flat-square&logo=lichess&logoColor=black" />
-
----
-
-### Featured Projects
-
-| Project | Description | Live Link |
-| :--- | :--- | :---: |
-| **Lazy Chess** | Multiplayer chess engine with **Stockfish AI**, Neon Glass UI, and P2P Sockets. | [**Play**](https://chess-lazyekansh.vercel.app) |
-| **Ehenias** | *(Nebula)* An **Academic OS** for JEE/NEET aspirants with syllabus tracking & analytics. | [**View**](https://ehenias.vercel.app) |
-| **Lazygram** | Pixel-perfect **Instagram Clone**. Replicates core algorithms, stories & feed. | [**Visit**](https://lazyekansh.vercel.app) |
-| **OSINT Tool** | Comprehensive **Information Gathering** tool for digital reconnaissance. | [**Use**](https://osint-lazyekansh.vercel.app) |
-| **SkyCast** | Real-time weather forecasting with **dynamic background themes**. | [**Check**](https://skycast-le.vercel.app) |
-
----
-
-### Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,js,html,css,tailwind,mongodb,firebase,git,github,vscode,figma&perline=7&theme=dark" />
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <h3 align="center">KERNEL_PANIC.js</h3>
+        <pre lang="javascript">
+class Entity {
+  constructor() {
+    this.name = "Ekansh Gupta";
+    this.origin = "Noida, IN";
+    this.role = "Architect";
+    this.status = "Compiling...";
+  }
+
+  getSkills() {
+    return [
+      "Full Stack Engineering",
+      "OSINT Operations",
+      "Computational Physics",
+      "System Architecture"
+    ];
+  }
+
+  getCurrentTasks() {
+    return {
+      academic: "Rotational Motion",
+      development: "Neural Networks",
+      side_quest: "Chess Engine v2"
+    };
+  }
+}
+
+const user = new Entity();
+console.log(user.status);
+        </pre>
+      </td>
+      <td valign="top" width="40%">
+        <h3 align="center">METRICS</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=lazyekansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=38BDF8&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+          <br />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyekansh&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&currStreakLabel=2DD4BF&fire=2DD4BF" height="150" alt="streak graph" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-### GitHub Stats
+<br />
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lazyekansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyekansh&theme=tokyonight&hide_border=true&background=050505" height="150" alt="streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyekansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505" height="150" alt="languages" />
+  <img src="https://github-profile-trophies.vercel.app/?username=lazyekansh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
----
+<br />
+
+<h3 align="center">CONTRIBUTION_MATRIX</h3>
+<div align="center">
+  <img src="https://github.com/lazyekansh/lazyekansh/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=80&section=footer&text=Code.%20Sleep.%20JEE.%20Repeat.&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=lazyekansh&style=for-the-badge&color=0d1117&label=VISUAL_CONTACTS" alt="Profile views" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/lazyekansh">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer&text=END_TRANSMISSION&fontSize=20&fontColor=555555&animation=fadeIn" width="100%" />
+  </a>
 </div>
