@@ -25,7 +25,7 @@
 {
   "user": "Ekansh Gupta",
   "location": "Noida, India",
-  "current_focus": "JEE Advanced 2026",
+  "current_focus": "JEE Advanced 2027",
   "status": "Building OSINT Tools",
   "interests": [
     "3D Modeling (Award Winner)",
