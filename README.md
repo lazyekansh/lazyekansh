@@ -23,7 +23,7 @@
         <h3 align="center" style="color: #2DD4BF">⚡ SYSTEM_STATUS: ONLINE</h3>
         <pre lang="json">
 {
-  "user": "Ekansh Gupta",
+  "user": "Ekansh T.",
   "location": "Noida, India",
   "current_focus": "JEE Advanced 2027",
   "status": "Building OSINT Tools",
