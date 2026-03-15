@@ -1,0 +1,31 @@
+<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cl { font-family:'Courier New',monospace; font-size:11px; fill:#ffffff55; letter-spacing:1px; }
+      .cv { font-family:'Courier New',monospace; font-size:22px; font-weight:700; }
+      .bar-r { fill:#00f3ff; animation:gr 1.5s ease-out forwards; }
+      .bar-b { fill:#ff0055; animation:gb 1.5s 0.3s ease-out forwards; }
+      @keyframes gr { from{width:0} to{width:130px} }
+      @keyframes gb { from{width:0} to{width:89px} }
+    </style>
+  </defs>
+  <rect width="500" height="80" fill="#0d1117"/>
+  <rect x="0" y="0" width="3" height="80" fill="#00f3ff"/>
+
+  <text x="15" y="22" class="cl">RAPID</text>
+  <text x="75" y="25" class="cv" fill="#00f3ff">1613</text>
+  <rect x="15" y="32" width="200" height="6" fill="#111827"/>
+  <rect x="15" y="32" width="0" height="6" class="bar-r"/>
+
+  <text x="15" y="60" class="cl">BLITZ</text>
+  <text x="75" y="63" class="cv" fill="#ff0055">1358</text>
+  <rect x="15" y="70" width="200" height="6" fill="#111827"/>
+  <rect x="15" y="70" width="0" height="6" class="bar-b"/>
+
+  <rect x="270" y="20" width="120" height="40" fill="#00f3ff0d" stroke="#00f3ff" stroke-width="1"/>
+  <text x="330" y="37" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#00f3ff70" letter-spacing="1">GROWTH</text>
+  <text x="330" y="53" text-anchor="middle" font-family="'Courier New',monospace" font-size="16" font-weight="700" fill="#00f3ff">+813</text>
+
+  <rect x="410" y="28" width="82" height="24" fill="#ffffff06" stroke="#ffffff18" stroke-width="1"/>
+  <text x="451" y="44" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#ffffff45" letter-spacing="1">daily puzzles</text>
+</svg>
