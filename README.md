@@ -53,7 +53,7 @@ feel free to poke around my projects — most are open experiments. always down 
 
 ---
 
-### 🛠 things i've shipped
+###  things i've shipped
 
 <br>
 
@@ -64,7 +64,7 @@ feel free to poke around my projects — most are open experiments. always down 
 
 ---
 
-### ⚡ stack
+###  stack
 
 <br>
 
@@ -74,7 +74,7 @@ feel free to poke around my projects — most are open experiments. always down 
 
 ---
 
-### ♟ chess
+###  chess
 
 <br>
 
@@ -84,6 +84,6 @@ feel free to poke around my projects — most are open experiments. always down 
 
 ---
 
-<sub>noida, india · born 2009 · building since forever</sub>
+<sub>noida, india · born nov 26' 2009 · building since forever</sub>
 
 </div>
