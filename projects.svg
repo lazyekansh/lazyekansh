@@ -1,0 +1,124 @@
+<svg width="800" height="560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="sl" width="800" height="4" patternUnits="userSpaceOnUse">
+      <rect width="800" height="1" fill="#fff"/>
+      <rect width="800" height="3" y="1" fill="transparent"/>
+    </pattern>
+    <style>
+      .title { font-family:'Courier New',monospace; font-size:15px; font-weight:700; fill:#ffffff; }
+      .desc  { font-family:'Courier New',monospace; font-size:11px; fill:#8b9cb0; }
+      .stag  { font-family:'Courier New',monospace; font-size:10px; fill:#ffffff55; }
+      .lbl   { font-family:'Courier New',monospace; font-size:10px; font-weight:700; letter-spacing:1.5px; }
+      .arrow { font-family:'Courier New',monospace; font-size:13px; fill:#ffffff25; }
+      .scanl { opacity:0.035; }
+      .p-osint { stroke:#00f3ff; stroke-width:1; fill:none; animation:gl-c 3.0s ease-in-out infinite; }
+      .p-game  { stroke:#a855f7; stroke-width:1; fill:none; animation:gl-p 3.8s ease-in-out infinite; }
+      .p-full  { stroke:#22c55e; stroke-width:1; fill:none; animation:gl-g 3.3s ease-in-out infinite; }
+      .p-infra { stroke:#ff0055; stroke-width:1; fill:none; animation:gl-r 3.6s ease-in-out infinite; }
+      .p-front { stroke:#f59e0b; stroke-width:1; fill:none; animation:gl-y 2.9s ease-in-out infinite; }
+      .p-ed    { stroke:#06b6d4; stroke-width:1; fill:none; animation:gl-t 4.1s ease-in-out infinite; }
+      @keyframes gl-c { 0%,100%{filter:drop-shadow(0 0 2px #00f3ff60);opacity:.55} 50%{filter:drop-shadow(0 0 9px #00f3ffbb);opacity:1} }
+      @keyframes gl-p { 0%,100%{filter:drop-shadow(0 0 2px #a855f760);opacity:.55} 50%{filter:drop-shadow(0 0 9px #a855f7bb);opacity:1} }
+      @keyframes gl-g { 0%,100%{filter:drop-shadow(0 0 2px #22c55e60);opacity:.55} 50%{filter:drop-shadow(0 0 9px #22c55ebb);opacity:1} }
+      @keyframes gl-r { 0%,100%{filter:drop-shadow(0 0 2px #ff005560);opacity:.55} 50%{filter:drop-shadow(0 0 9px #ff0055bb);opacity:1} }
+      @keyframes gl-y { 0%,100%{filter:drop-shadow(0 0 2px #f59e0b60);opacity:.55} 50%{filter:drop-shadow(0 0 9px #f59e0bbb);opacity:1} }
+      @keyframes gl-t { 0%,100%{filter:drop-shadow(0 0 2px #06b6d460);opacity:.55} 50%{filter:drop-shadow(0 0 9px #06b6d4bb);opacity:1} }
+      .crn  { opacity:0; animation:flk 5s step-end infinite; }
+      .crn2 { opacity:0; animation:flk 5s 1.5s step-end infinite; }
+      @keyframes flk { 0%,88%,92%,100%{opacity:0} 90%{opacity:1} }
+    </style>
+  </defs>
+
+  <!-- CARD 1: NUVIAC OSINT -->
+  <rect x="8" y="8" width="378" height="148" fill="#0d1117"/>
+  <rect x="8" y="8" width="378" height="148" class="p-osint"/>
+  <rect x="8" y="8" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="8,28 8,8 28,8" stroke="#00f3ff" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="366,8 386,8 386,28" stroke="#00f3ff" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="18" y="18" width="68" height="17" fill="#00f3ff18"/>
+  <text x="52" y="30" text-anchor="middle" class="lbl" fill="#00f3ff">OSINT</text>
+  <text x="18" y="60" class="title">nuviac osint</text>
+  <text x="373" y="60" text-anchor="end" class="arrow">→</text>
+  <text x="18" y="80" class="desc">multi-source intelligence platform.</text>
+  <text x="18" y="95" class="desc">number lookup · identity resolution</text>
+  <text x="18" y="110" class="desc">primary / fallback api architecture.</text>
+  <text x="18" y="137" class="stag">[ Next.js ]  [ Node.js ]  [ Vercel ]</text>
+
+  <!-- CARD 2: LAZY CHESS -->
+  <rect x="414" y="8" width="378" height="148" fill="#0d1117"/>
+  <rect x="414" y="8" width="378" height="148" class="p-game"/>
+  <rect x="414" y="8" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="414,28 414,8 434,8" stroke="#a855f7" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="772,8 792,8 792,28" stroke="#a855f7" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="424" y="18" width="58" height="17" fill="#a855f718"/>
+  <text x="453" y="30" text-anchor="middle" class="lbl" fill="#a855f7">GAME</text>
+  <text x="424" y="60" class="title">lazy chess</text>
+  <text x="779" y="60" text-anchor="end" class="arrow">→</text>
+  <text x="424" y="80" class="desc">real-time multiplayer chess.</text>
+  <text x="424" y="95" class="desc">stockfish ai · adjustable difficulty</text>
+  <text x="424" y="110" class="desc">live socket.io moves.</text>
+  <text x="424" y="137" class="stag">[ React ]  [ Socket.io ]  [ Stockfish ]</text>
+
+  <!-- CARD 3: LAZYGRAM -->
+  <rect x="8" y="176" width="378" height="148" fill="#0d1117"/>
+  <rect x="8" y="176" width="378" height="148" class="p-full"/>
+  <rect x="8" y="176" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="8,196 8,176 28,176" stroke="#22c55e" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="366,176 386,176 386,196" stroke="#22c55e" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="18" y="186" width="90" height="17" fill="#22c55e18"/>
+  <text x="63" y="198" text-anchor="middle" class="lbl" fill="#22c55e">FULL STACK</text>
+  <text x="18" y="228" class="title">lazygram</text>
+  <text x="373" y="228" text-anchor="end" class="arrow">→</text>
+  <text x="18" y="248" class="desc">full-featured social platform.</text>
+  <text x="18" y="263" class="desc">stories · feed · real-time updates</text>
+  <text x="18" y="278" class="desc">firebase auth.</text>
+  <text x="18" y="305" class="stag">[ Next.js ]  [ Redux ]  [ Firebase ]</text>
+
+  <!-- CARD 4: ZIPGIT -->
+  <rect x="414" y="176" width="378" height="148" fill="#0d1117"/>
+  <rect x="414" y="176" width="378" height="148" class="p-infra"/>
+  <rect x="414" y="176" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="414,196 414,176 434,176" stroke="#ff0055" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="772,176 792,176 792,196" stroke="#ff0055" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="424" y="186" width="64" height="17" fill="#ff005518"/>
+  <text x="456" y="198" text-anchor="middle" class="lbl" fill="#ff0055">INFRA</text>
+  <text x="424" y="228" class="title">zipgit</text>
+  <text x="779" y="228" text-anchor="end" class="arrow">→</text>
+  <text x="424" y="248" class="desc">download any github repo or folder</text>
+  <text x="424" y="263" class="desc">as a zip — no login needed.</text>
+  <text x="424" y="278" class="desc">clean ui · instant fetch.</text>
+  <text x="424" y="305" class="stag">[ Next.js ]  [ GitHub API ]  [ Vercel ]</text>
+
+  <!-- CARD 5: SKYCAST -->
+  <rect x="8" y="344" width="378" height="148" fill="#0d1117"/>
+  <rect x="8" y="344" width="378" height="148" class="p-front"/>
+  <rect x="8" y="344" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="8,364 8,344 28,344" stroke="#f59e0b" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="366,344 386,344 386,364" stroke="#f59e0b" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="18" y="354" width="86" height="17" fill="#f59e0b18"/>
+  <text x="61" y="366" text-anchor="middle" class="lbl" fill="#f59e0b">FRONTEND</text>
+  <text x="18" y="396" class="title">skycast</text>
+  <text x="373" y="396" text-anchor="end" class="arrow">→</text>
+  <text x="18" y="416" class="desc">weather app that shifts its entire</text>
+  <text x="18" y="431" class="desc">color palette with conditions.</text>
+  <text x="18" y="446" class="desc">rain · sun · storm — all different.</text>
+  <text x="18" y="473" class="stag">[ JavaScript ]  [ OpenWeather API ]</text>
+
+  <!-- CARD 6: EXAMLY -->
+  <rect x="414" y="344" width="378" height="148" fill="#0d1117"/>
+  <rect x="414" y="344" width="378" height="148" class="p-ed"/>
+  <rect x="414" y="344" width="378" height="148" fill="url(#sl)" class="scanl"/>
+  <polyline points="414,364 414,344 434,344" stroke="#06b6d4" stroke-width="2" fill="none" class="crn"/>
+  <polyline points="772,344 792,344 792,364" stroke="#06b6d4" stroke-width="2" fill="none" class="crn2"/>
+  <rect x="424" y="354" width="68" height="17" fill="#06b6d418"/>
+  <text x="458" y="366" text-anchor="middle" class="lbl" fill="#06b6d4">EDTECH</text>
+  <text x="424" y="396" class="title">examly</text>
+  <text x="779" y="396" text-anchor="end" class="arrow">→</text>
+  <text x="424" y="416" class="desc">timed quiz platform for JEE/NEET.</text>
+  <text x="424" y="431" class="desc">scoring · analytics · subject filter</text>
+  <text x="424" y="446" class="desc">zero-dep, fast vanilla.</text>
+  <text x="424" y="473" class="stag">[ Vanilla JS ]  [ Logic ]</text>
+
+  <line x1="8" y1="510" x2="792" y2="510" stroke="#ffffff" stroke-width="0.4" opacity="0.1"/>
+  <text x="400" y="530" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#ffffff20" letter-spacing="4">· · · more at ek4nsh.tech · · ·</text>
+</svg>
