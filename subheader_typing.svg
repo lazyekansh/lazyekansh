@@ -1,0 +1,50 @@
+<svg width="1000" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
+
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+      }
+
+      .typing-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 22px;
+        color: #00f3ff;
+
+        width: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 4px solid #00f3ff;
+
+        animation:
+          typing 8s steps(59, end) infinite,
+          blink 0.8s step-end infinite;
+
+        text-shadow: 0 0 5px #00f3ff80;
+      }
+
+      @keyframes typing {
+        0% { width: 0ch; }
+        40% { width: 59ch; }
+        90% { width: 59ch; }
+        100% { width: 0ch; }
+      }
+
+      @keyframes blink {
+        0%, 100% { border-color: transparent; }
+        50% { border-color: #00f3ff; }
+      }
+    </style>
+  </defs>
+
+  <foreignObject x="0" y="0" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+        <span class="typing-text">full stack dev; osint tooling; ai systems; chess 1613 rapid</span>
+    </div>
+  </foreignObject>
+</svg>
