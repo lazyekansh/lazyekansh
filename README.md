@@ -45,7 +45,7 @@ feel free to poke around my projects — most are open experiments. always down 
 <a href="https://ek4nsh.tech" target="_blank"><img src="https://img.shields.io/badge/ek4nsh.tech-0d1117?style=for-the-badge&logo=vercel&logoColor=00f3ff" alt="Website" /></a>
 <a href="https://github.com/lazyekansh" target="_blank"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=00f3ff" alt="GitHub" /></a>
 <a href="https://t.me/lazyekansh" target="_blank"><img src="https://img.shields.io/badge/telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00f3ff" alt="Telegram" /></a>
-<a href="https://instagram.com/ek4nsh" target="_blank"><img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00f3ff" alt="Instagram" /></a>
+<a href="https://instagram.com/lazyekansh" target="_blank"><img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00f3ff" alt="Instagram" /></a>
 <a href="mailto:lazyekansh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f3ff" alt="Gmail" /></a>
 
 <br>
