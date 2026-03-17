@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- TABLE-START --><!-- Last updated: 2026-03-16 03:25:21 UTC -->
+<!-- TABLE-START --><!-- Last updated: 2026-03-17 02:47:49 UTC -->
 <div align="center">
   <table style="border: 1px solid #00f3ff; border-radius: 0px; background: #0d1117; width: 80%; box-shadow: 0 0 12px #00f3ff50;">
     <tr style="border-bottom: 1px solid #00f3ff;">
@@ -20,14 +20,14 @@
     </tr>
     <tr>
       <td align="center" style="padding: 20px; border-right: 1px solid #00f3ff; width: 40%; vertical-align: middle;">
-        <img src="sprites/wooper_idle.gif" alt="Pet" width="180" style="image-rendering: pixelated; filter: drop-shadow(0 0 6px #00f3ff);" />
+        <img src="sprites/wooper_sad.gif" alt="Pet" width="180" style="image-rendering: pixelated; filter: drop-shadow(0 0 6px #00f3ff);" />
         <br><br>
-        <code style="color: #00f3ff;">shipping daily. no days off.</code>
+        <code style="color: #00f3ff;">system dormant. reboot imminent.</code>
       </td>
       <td align="left" style="padding: 20px; font-family: 'Courier New', monospace; color: #ffffff;">
         <strong style="color: #00f3ff;">// system_metrics</strong><br><br>
-        streak_active :: <code style="color: #00f3ff;">14 days</code><br>
-        total_commits&nbsp;&nbsp;:: <code style="color: #00f3ff;">2127</code><br>
+        streak_active :: <code style="color: #00f3ff;">0 days</code><br>
+        total_commits&nbsp;&nbsp;:: <code style="color: #00f3ff;">2167</code><br>
         current_year&nbsp;&nbsp;&nbsp;:: <code style="color: #00f3ff;">2026</code><br>
       </td>
     </tr>
