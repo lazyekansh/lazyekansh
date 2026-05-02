@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- TABLE-START --><!-- Last updated: 2026-05-01 04:04:49 UTC -->
+<!-- TABLE-START --><!-- Last updated: 2026-05-02 03:37:43 UTC -->
 <div align="center">
   <table style="border: 1px solid #00f3ff; border-radius: 0px; background: #0d1117; width: 80%; box-shadow: 0 0 12px #00f3ff50;">
     <tr style="border-bottom: 1px solid #00f3ff;">
@@ -20,14 +20,14 @@
     </tr>
     <tr>
       <td align="center" style="padding: 20px; border-right: 1px solid #00f3ff; width: 40%; vertical-align: middle;">
-        <img src="sprites/wooper_sad.gif" alt="Pet" width="180" style="image-rendering: pixelated; filter: drop-shadow(0 0 6px #00f3ff);" />
+        <img src="sprites/wooper_idle.gif" alt="Pet" width="180" style="image-rendering: pixelated; filter: drop-shadow(0 0 6px #00f3ff);" />
         <br><br>
-        <code style="color: #00f3ff;">system dormant. reboot imminent.</code>
+        <code style="color: #00f3ff;">commit stream active. flow state engaged.</code>
       </td>
       <td align="left" style="padding: 20px; font-family: 'Courier New', monospace; color: #ffffff;">
         <strong style="color: #00f3ff;">// system_metrics</strong><br><br>
-        streak_active :: <code style="color: #00f3ff;">0 days</code><br>
-        total_commits&nbsp;&nbsp;:: <code style="color: #00f3ff;">2604</code><br>
+        streak_active :: <code style="color: #00f3ff;">3 days</code><br>
+        total_commits&nbsp;&nbsp;:: <code style="color: #00f3ff;">2609</code><br>
         current_year&nbsp;&nbsp;&nbsp;:: <code style="color: #00f3ff;">2026</code><br>
       </td>
     </tr>
